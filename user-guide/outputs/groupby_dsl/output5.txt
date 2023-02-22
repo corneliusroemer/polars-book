@@ -1,0 +1,12 @@
+shape: (5, 3)
+┌───────┬────────────────┬───────────────────────┐
+│ state ┆ youngest       ┆ oldest                │
+│ ---   ┆ ---            ┆ ---                   │
+│ cat   ┆ str            ┆ str                   │
+╞═══════╪════════════════╪═══════════════════════╡
+│ NY    ┆ Mondaire Jones ┆ Cornelius Schoonmaker │
+│ FL    ┆ Patrick Murphy ┆ Charles Downing       │
+│ OK    ┆ Kendra Horn    ┆ David Harvey          │
+│ MO    ┆ Vicky Hartzler ┆ Spencer Pettis        │
+│ DK    ┆ George Mathews ┆ John Todd             │
+└───────┴────────────────┴───────────────────────┘

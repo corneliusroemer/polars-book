@@ -1,0 +1,12 @@
+shape: (5, 4)
+┌───────┬────────────────┬────────────────────┬────────────────────┐
+│ state ┆ youngest       ┆ oldest             ┆ alphabetical_first │
+│ ---   ┆ ---            ┆ ---                ┆ ---                │
+│ cat   ┆ str            ┆ str                ┆ str                │
+╞═══════╪════════════════╪════════════════════╪════════════════════╡
+│ NJ    ┆ Jon Runyan     ┆ Lambert Cadwalader ┆ Aaron Kitchell     │
+│ DK    ┆ George Mathews ┆ John Todd          ┆ George Mathews     │
+│ KY    ┆ Ben Chandler   ┆ John Edwards       ┆ Aaron Harding      │
+│ PA    ┆ Conor Lamb     ┆ Thomas Fitzsimons  ┆ Aaron Kreider      │
+│ MO    ┆ Vicky Hartzler ┆ Spencer Pettis     ┆ Abram Comingo      │
+└───────┴────────────────┴────────────────────┴────────────────────┘
